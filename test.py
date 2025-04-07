@@ -1,2 +1,1 @@
-__author__ = 'coco'
-__author__ = "Nicolas Foray, c'est moi :)"
+__author__ = "Juste Nicolas Foray, et personne d'autre"
